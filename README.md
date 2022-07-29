@@ -28,3 +28,8 @@ Round - 1
   1. https://leetcode.com/explore/featured/card/sql-language/684/sql-relationship/4343/
   2. https://leetcode.com/problems/max-consecutive-ones/
   3. https://leetcode.com/problems/duplicate-emails/solution/
+
+----------------------------------------------------------------------------------------------------------
+Salesforce 
+Round-1
+https://medium.com/@narengowda/system-design-dropbox-or-google-drive-8fd5da0ce55b
