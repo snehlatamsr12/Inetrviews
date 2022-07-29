@@ -13,9 +13,18 @@ Round - 1
      * @param input
      * @return
      */
+     https://leetcode.com/problems/group-anagrams/
      
-  2. Write a function static boolean isBalanced(String s) {} for parenthesis (){}[].
+  2. https://leetcode.com/problems/valid-parentheses/
   
   -----------------------------------------------------------------------------------------------------
   
   ServieNow Senior Software engineer 
+  Round-1
+  1. https://leetcode.com/problems/max-consecutive-ones/
+  2. https://leetcode.com/problems/missing-number/
+  
+  Round-2
+  1. https://leetcode.com/explore/featured/card/sql-language/684/sql-relationship/4343/
+  2. https://leetcode.com/problems/max-consecutive-ones/
+  3. https://leetcode.com/problems/duplicate-emails/solution/
