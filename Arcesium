@@ -1,3 +1,8 @@
 Round 1
 https://leetcode.com/problems/merge-k-sorted-lists/solution/
 https://www.geeksforgeeks.org/generating-subarrays-using-recursion/
+
+Round 2 System Design
+
+Design API for create, delete, update for a multi tenant webapp
+Design API for reporting which request updated what 
