@@ -35,3 +35,10 @@ Round -1
 Singleton, Builder pattern, Volatile variable
 https://leetcode.com/problems/plus-one-linked-list/solution/
 https://www.geeksforgeeks.org/design-a-chess-game/
+
+Round -2
+Design Trie search, insert, delete, update
+each word as freq, need to return top 3 words as per freq
+
+Round -3
+
